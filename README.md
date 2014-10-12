@@ -1,4 +1,4 @@
-Unix-Config
+Configs
 ===========
 
-Settings files for Unix systems
+Personal settings files
